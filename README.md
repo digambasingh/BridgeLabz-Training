@@ -3,29 +3,34 @@ This repository contains my **BridgeLabz java Training** practice work, organise
 ------
 ## 📁 Project Structure
 
+```
 BridgeLabz-Training/
 |
-|-------------- core-java-practice/(Branch & Folder Name)
-|            |
-|            |--gcr-codebase/
-|            |    |
-|            |    |--google-classroom-questions/
-|            |         |--arrays/
-|            |         |--programmingElements/
-|            |         |--string/
-|            |         |--methods/
-|            |         |--flowControl/
-|            |         |--extra/
-|            |         |--extra-builtin-function/
-|            |         |--practiceProblems/
-|            |          
-|            |--leet-code-codebase/
-|            |
-|            |-- scenario-based/
-|            |    |--employee-wage-scenario/
-|            |    |--line-comparision/
-|            |    |--snake-and-ladder/
+|-- core-java-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |
+|   |   |-- google-classroom-questions/
+|   |   |   |
+|   |   |   |-- arrays/
+|   |   |   |-- programmingElements/
+|   |   |   |-- string/
+|   |   |   |-- methods/
+|   |   |   |-- flowControl/
+|   |   |   |-- extra/
+|   |   |   |-- extra-builtin-function/
+|   |   |   |-- practiceProblems/
+|   |
+|   |-- leet-code-codebase/
+|   |
+|   |-- scenario-based/
+|       |
+|       |-- employee-wage-scenario/
+|       |-- line-comparision/
+|       |-- snake-and-ladder/
 
+
+```
 
 
 **---------------------- ## 📌 Branch Overview ------------------------**
@@ -34,12 +39,12 @@ BridgeLabz-Training/
 
 ### 🔹 core-java-practice
 
-- [Google-classroom-questions](core-java-practice/gcr-codebase/Google-ClassRoom-Questions)
-- [Control flow ](core-java-practice/gcr-codebase/Google-ClassRoom-Questions/flowControl)
-- [Arrays](core-java-practice/gcr-codebase/Google-ClassRoom-Questions/arrays)
-- [Strings](core-java-practice/gcr-codebase/Google-ClassRoom-Questions/string)
-- [Scenario-based problems](core-java-practice/scenario-based)
-- [LeetCode practice](core-java-practice/leet-code-codebase)
+- [Google-classroom-questions](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Google-ClassRoom-Questions)
+- [Control flow ](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Google-ClassRoom-Questions/flowControl)
+- [Arrays](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Google-ClassRoom-Questions/arrays)
+- [Strings](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Google-ClassRoom-Questions/string)
+- [Scenario-based problems](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
+- [LeetCode practice](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
 
 ------
@@ -47,7 +52,8 @@ BridgeLabz-Training/
 ## 🛠 Technologies Used
 - Java
 - Git & GitHub
--Ecplise IDE
+- Ecplise IDE
+- Command Line Interface
 ---
 
 ## 🎯 Purpose

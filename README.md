@@ -28,10 +28,22 @@ BridgeLabz-Training/
 |       |-- employee-wage-scenario/
 |       |-- line-comparision/
 |       |-- snake-and-ladder/
-
+|
+|-- opps-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- class-and-object/
+|   |   |-- constructor/
+|   |
+|   |-- leet-code-codebase/
+|   |
+|   |-- scenario-based/
+|
+|
 
 ```
-
+---
 
 **---------------------- ## 📌 Branch Overview ------------------------**
 
@@ -46,6 +58,13 @@ BridgeLabz-Training/
 - [Scenario-based problems](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - [LeetCode practice](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 
+---
+
+###  * opps-practice
+
+- [gcr-codebase](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)
+- [class-and-object](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
+- [constructor](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
 
 ------
 
@@ -65,4 +84,4 @@ This repository is maintained as part of **BridgeLabz Training** to:
 ---
 
 ## 👤 Author
-**Digambarr Singh**
+**Digambar Singh**

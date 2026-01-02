@@ -35,6 +35,8 @@ BridgeLabz-Training/
 |   |   |  
 |   |   |-- class-and-object/
 |   |   |-- constructor/
+|   |   |--inbuiltfunction/
+|   |   |--object-modelling/
 |   |
 |   |-- leet-code-codebase/
 |   |
@@ -65,6 +67,8 @@ BridgeLabz-Training/
 - [gcr-codebase](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase)
 - [class-and-object](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object)
 - [constructor](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
+- [inbuiltfunction](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inbuiltfunction)
+- [object-modelling](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
 
 ------
 

@@ -37,11 +37,12 @@ BridgeLabz-Training/
 |   |   |-- constructor/
 |   |   |--inbuiltfunction/
 |   |   |--object-modelling/
+|   |   |--inheritance/
 |   |
 |   |-- leet-code-codebase/
 |   |
 |   |-- scenario-based/
-|
+|   
 |
 
 ```
@@ -59,7 +60,7 @@ BridgeLabz-Training/
 - [Strings](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/Google-ClassRoom-Questions/string)
 - [Scenario-based problems](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - [LeetCode practice](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
-
+- [inheritance](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
 ---
 
 ###  * opps-practice
@@ -69,7 +70,7 @@ BridgeLabz-Training/
 - [constructor](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/constructor)
 - [inbuiltfunction](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inbuiltfunction)
 - [object-modelling](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
-
+- [scenario-based-problems](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ------
 
 ## 🛠 Technologies Used

@@ -43,6 +43,13 @@ BridgeLabz-Training/
 |   |
 |   |-- scenario-based/
 |   
+|-- dsa-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- linkedList/
+|   |   |-- stack-queue-hashmap
+|   
 |
 
 ```
@@ -72,6 +79,13 @@ BridgeLabz-Training/
 - [object-modelling](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/object-modelling)
 - [scenario-based-problems](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 ------
+###  * dsa-practice
+
+- [gcr-codebase](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)
+- [linkedList](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedList)
+- [stack-queue-hashmap](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/stack-queue-hashmap)
+-----
+
 
 ## 🛠 Technologies Used
 - Java

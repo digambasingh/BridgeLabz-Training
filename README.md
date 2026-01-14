@@ -51,6 +51,7 @@ BridgeLabz-Training/
 |   |   |-- stack-queue-hashmap
 |   
 |
+|---README.md
 
 ```
 ---
@@ -68,6 +69,12 @@ BridgeLabz-Training/
 - [Scenario-based problems](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 - [LeetCode practice](https://github.com/digambasingh/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)
 - [inheritance](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance)
+
+### Scenario based Questions of core java
+   * Movie Ticket Booking App( Ask users for movie type, seat type(gold/silver) and snacks use switch and if together and loop through multiple users)
+   * Library Fine calculator APP( Input return date and due date and if return late calculate fine 5 rupees per day and repeat for 5 books using for loop)
+   * Bus Route Distance Tracke( Each stop add distance , Ask if the passenger wants to get off at a stop. and Use a while-loop with a total distance tracker and Exit on user confirmation.)
+ 
 ---
 
 ###  * opps-practice

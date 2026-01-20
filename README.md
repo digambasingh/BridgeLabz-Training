@@ -49,7 +49,16 @@ BridgeLabz-Training/
 |   |   |  
 |   |   |-- linkedList/
 |   |   |-- stack-queue-hashmap
-|   
+|   |   |-- linearAndBinarySearch/
+|   |   |-- sortingAlgorithms/
+|   |
+|   |-- scenario-based/
+|       |
+|       |-- trafficManager/
+|       |-- book-shelf/
+|       |-- exam-proctor/
+|       |-- parcel-tracker/
+|       |-- tab-history-manager/   
 |
 |---README.md
 
@@ -91,6 +100,15 @@ BridgeLabz-Training/
 - [gcr-codebase](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase)
 - [linkedList](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedList)
 - [stack-queue-hashmap](https://github.com/digambasingh/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/stack-queue-hashmap)
+- [linearAndBinarySearch](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/lineraAndBinarySearch)
+- [SortingAlgoritms](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+
+### Scenario based Questions of DSA Practice
+ - [Book Self](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/bookshelf) (Organize books genre-wise in a library system. Books can be borrowed and returned dynamically.)
+ - [Traffic Manager](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/trafficmanager) (Manage vehicle flow in a smart city roundabout with continuous entry and exit.)
+ - [Exam proctor](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/examproctor) (Track student navigation during an online exam and auto-calculate results.)
+ - [Parcel tracker](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/parceltracker) (Track a parcel’s delivery stages from packing to delivery.)
+ - [tab history Manager](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/tabhistorymanager) (Implement browser back/forward navigation and restore recently closed tabs.)
 -----
 
 

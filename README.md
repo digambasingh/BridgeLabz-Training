@@ -42,13 +42,19 @@ BridgeLabz-Training/
 |   |-- leet-code-codebase/
 |   |
 |   |-- scenario-based/
+|       |
+|       |-- storybased/
+|       |-- scenario-basedon-oops-pillars/
+|       |-- temperatureTest/
+|       |-- Student-scoreAnalyzer/
+|       |-- QuizTest/   
 |   
 |-- dsa-practice/ (Branch & Folder Name)
 |   |
 |   |-- gcr-codebase/
 |   |   |  
 |   |   |-- linkedList/
-|   |   |-- stack-queue-hashmap
+|   |   |-- stack-queue-hashmap/
 |   |   |-- linearAndBinarySearch/
 |   |   |-- sortingAlgorithms/
 |   |
@@ -59,6 +65,22 @@ BridgeLabz-Training/
 |       |-- exam-proctor/
 |       |-- parcel-tracker/
 |       |-- tab-history-manager/   
+|
+|
+|-- collections-practice/ (Branch & Folder Name)
+|   |
+|   |-- gcr-codebase/
+|   |   |  
+|   |   |-- exceptionhandling/
+|   |   |-- streams/
+|   |   |-- collections/
+|   |   |-- 
+|   |
+|   |-- scenario-based/
+|       |
+|       |-- filebackupsystem/
+|       |-- restaurant/
+|       |-- 
 |
 |---README.md
 
@@ -110,7 +132,16 @@ BridgeLabz-Training/
  - [Parcel tracker](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/parceltracker) (Track a parcel’s delivery stages from packing to delivery.)
  - [tab history Manager](https://github.com/digambasingh/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/tabhistorymanager) (Implement browser back/forward navigation and restore recently closed tabs.)
 -----
+###  * Collections-practice
 
+- [gcr-codebase](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase)
+- [exceptionhandling](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptionhandling)
+- [streams](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+- [collections](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+
+### Scenario based Questions of Collections Practice
+ - [filebackupsystem ](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/scenariobased27012026/filebackupschedular) (A Java-based File Backup Scheduler that uses a PriorityQueue to execute high-priority (critical) backup tasks first, leveraging Comparable for sorting and custom exceptions to handle invalid backup paths.)
+ - [restaurant](https://github.com/digambasingh/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/scenariobased27012026/restaurant) (A Restaurant Table Reservation System that manages tables using maps and lists, prevents double bookings through custom exceptions, and provides methods to reserve, cancel, and view available tables by time slot.)
 
 ## 🛠 Technologies Used
 - Java

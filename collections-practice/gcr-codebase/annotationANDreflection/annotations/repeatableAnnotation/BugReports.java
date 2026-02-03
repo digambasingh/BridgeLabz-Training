@@ -1,0 +1,10 @@
+package com.bridgelabz.annotations.repeatableAnnotation;
+
+import java.lang.annotation.*;
+
+@Retention(RetentionPolicy.RUNTIME)
+@Target(ElementType.METHOD)
+public @interface BugReports {
+    BugReport[] value();
+}
+

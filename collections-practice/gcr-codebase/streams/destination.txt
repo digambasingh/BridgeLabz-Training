@@ -1,0 +1,4 @@
+Name = Digambar singh
+address = magtai
+college = gla university
+company = capgimini

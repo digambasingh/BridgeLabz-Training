@@ -1,0 +1,26 @@
+[ {
+  "city" : "Delhi",
+  "name" : "Rahul",
+  "id" : "1",
+  "age" : "22"
+}, {
+  "city" : "Noida",
+  "name" : "Aman",
+  "id" : "2",
+  "age" : "23"
+}, {
+  "city" : "Lucknow",
+  "name" : "Neha",
+  "id" : "3",
+  "age" : "21"
+}, {
+  "city" : "Meerut",
+  "name" : "Simran",
+  "id" : "4",
+  "age" : "24"
+}, {
+  "city" : "Kanpur",
+  "name" : "Arjun",
+  "id" : "5",
+  "age" : "22"
+} ]
